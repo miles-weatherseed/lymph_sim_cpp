@@ -1,0 +1,2 @@
+COGNATE_ANTIGEN_RATIO_LOOKUP_TABLE_PREFIX /tmp/LNModelPreprocessedProbs/activationProbabilityVersusCognateAntigenRatio
+
